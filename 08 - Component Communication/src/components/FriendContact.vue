@@ -45,7 +45,7 @@ export default {
       // }
     },
   },
-  emits: ['toggle-favorite'],
+  emits: ['toggle-favorite'], 
   // emits: {
   //   'toggle-favorite' : function (id) {
   //     if(id){
@@ -55,7 +55,7 @@ export default {
   //       return false;
   //     }
   //   }
-  },
+  // },
   data() {
     return {
       detailsAreVisible: false,
