@@ -16,6 +16,7 @@
         @toggle-favorite="toggleFavoriteStatus"
         @delete="onDeleteContact"
       ></friend-contact>
+      
     </ul>
   </section>
 </template>
